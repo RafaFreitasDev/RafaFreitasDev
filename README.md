@@ -1,7 +1,8 @@
 # Olá! Meu nome é Rafael Freitas 🖐️
 
 <p align='justify'>
-Tenho familiaridade com boas práticas de desenvolvimento, metodologias ágeis, e experiência em desenvolvimento de soluções baseadas em TypeScript, ReactJs, Angular, NextJs, NodeJs, Express, NestJs, Python, Django, Java, Spring Boot, API Rest, GitHub. 
+Tenho familiaridade com boas práticas de desenvolvimento, metodologias ágeis, e experiência em desenvolvimento web, automação e ciência de dados. 
+  TypeScript, ReactJs, Angular, NextJs, NodeJs, Express, NestJs, Python, Django, Java, Spring Boot, API Rest, GitHub. 
 Além disso, possuo vivência na construção de projetos, atuação no desenvolvimento de aplicações web. Minha conexão com a tecnologia e minha paixão pela programação me motivam a buscar sempre novos desafios e aprimorar meus conhecimentos constantemente.
 Sou graduado em Engenharia Mecânica com conhecimento de inglês avançado (escrita e conversação) e estou sempre em busca de melhorias em minha comunicação e habilidades interpessoais. Acredito que meu perfil colaborativo e proativo pode agregar valor em equipes de desenvolvimento de software.
 
@@ -12,13 +13,15 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 <hr>
 
-## Tecnologias que uso para Programar / Desenvolver
+## Principais Tecnologias que uso para Programar / Desenvolver
 
 <div align='center'><br>
   
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1D6921?style=for-the-badge&logo=Django&logoColor=white)
 
@@ -29,11 +32,10 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 <div align='center'>
 
-### Actualmente Estou Estudando
+### Tecnologias Complementares
   
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -61,6 +63,7 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 <a href="mailto:raf.mec.ba@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <a href="https://wa.me/5571992951939?text=Ol%C3%A1%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
+<a href="rafaelfreitasdev.com" target="_blank"><img src='https://img.shields.io/badge/PORTFOLIO-28589D?style=for-the-badge&logo=PORTFOLIO&logoColor=white'/></a>
 
 #
 > **Obrigado por visitar o meu perfil**
