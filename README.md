@@ -43,6 +43,7 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![NextJs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6CB33E?style=for-the-badge&logo=springboot&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-02364F?style=for-the-badge&logo=prisma&logoColor=white)
 
 </div>
 
