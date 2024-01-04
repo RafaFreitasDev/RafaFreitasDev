@@ -1,14 +1,9 @@
 # Olá! Meu nome é Rafael Freitas 🖐️
 
 <p align='justify'>
-Tenho familiaridade com boas práticas de desenvolvimento, metodologias ágeis, e experiência em desenvolvimento web, automação e ciência de dados. 
-  TypeScript, ReactJs, Angular, NextJs, NodeJs, Express, NestJs, Python, Django, Java, Spring Boot, API Rest, GitHub. 
+Tenho familiaridade com boas práticas de desenvolvimento, metodologias ágeis, e experiência em desenvolvimento web, automação e ciência de dados. Gerenciamento e resolução de problemas de forma prática e objetiva. 
 Além disso, possuo vivência na construção de projetos, atuação no desenvolvimento de aplicações web. Minha conexão com a tecnologia e minha paixão pela programação me motivam a buscar sempre novos desafios e aprimorar meus conhecimentos constantemente.
-Sou graduado em Engenharia Mecânica com conhecimento de inglês avançado (escrita e conversação) e estou sempre em busca de melhorias em minha comunicação e habilidades interpessoais. Acredito que meu perfil colaborativo e proativo pode agregar valor em equipes de desenvolvimento de software.
-
-Tecnologias Complementares:
-HTML | CSS | JavaScript | SASS | TypeORM | Prisma | PostgreSQL  
-Gerenciar e resolver problemas de forma prática e objetiva.
+Sou graduado em Engenharia Mecânica, graduando em Ciência da Computação, com conhecimento de inglês avançado (escrita e conversação) e estou sempre em busca de melhorias em minha comunicação e habilidades interpessoais. Acredito que meu perfil colaborativo e proativo pode agregar valor em equipes de desenvolvimento de software.
 </p>
 
 <hr>
@@ -17,7 +12,6 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 <div align='center'><br>
   
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Sass](https://img.shields.io/badge/sass-CD6398?style=for-the-badge&logo=sass&logoColor=white)
@@ -45,7 +39,6 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6CB33E?style=for-the-badge&logo=springboot&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-02364F?style=for-the-badge&logo=prisma&logoColor=white)
-![TypeORM](https://img.shields.io/badge/typeorm-02364F?style=for-the-badge&logo=typeorm&logoColor=white)
 
 </div>
 
