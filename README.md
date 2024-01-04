@@ -19,11 +19,13 @@ Gerenciar e resolver problemas de forma prática e objetiva.
   
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1D6921?style=for-the-badge&logo=Django&logoColor=white)
+![NodeJs](https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-%2300599C.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafreitasdev&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafafreitasdev&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
@@ -59,7 +61,7 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 <hr>
 
-## Contactos
+## Contatos
 
 <a href="mailto:raf.mec.ba@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <a href="https://wa.me/5571992951939?text=Ol%C3%A1%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
