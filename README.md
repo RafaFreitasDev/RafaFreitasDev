@@ -20,11 +20,12 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/sass-CD6398?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-396C94?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1D6921?style=for-the-badge&logo=Django&logoColor=white)
-![NodeJs](https://img.shields.io/badge/node-%2300599C.svg?style=for-the-badge&logo=node&logoColor=white)
+![NodeJs](https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafreitasdev&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
@@ -39,9 +40,9 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![NextJs](https://img.shields.io/badge/nextjs-%2300599C.svg?style=for-the-badge&logo=nextjs&logoColor=white)
+![NextJs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextjs&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/springboot-%238511FA.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/springboot-6CB33E?style=for-the-badge&logo=springboot&logoColor=white)
 
 </div>
 
