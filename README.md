@@ -49,10 +49,10 @@ Sou graduado em Engenharia Mecânica, graduando em Ciência da Computação, com
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=problemmaker-python&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/problemmaker-python)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=Projectos-de-Sites&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/Projectos-de-Sites)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=processos-pje&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/processos-pje)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=componetes-de-um-Site&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/componetes-de-um-Site)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=formatacao-e-sintaxe-basica-do-github&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/heliocarlitos/formatacao-e-sintaxe-basica-do-github)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=analisebonus-python&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/analisebonus-python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=kenzie-hub&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/kenzie-hub)
 
 </div>
 
