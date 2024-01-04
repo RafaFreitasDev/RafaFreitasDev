@@ -26,6 +26,7 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1D6921?style=for-the-badge&logo=Django&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+![Express](https://img.shields.io/badge/express-%2300599C.svg?style=for-the-badge&logo=express&logoColor=white)
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafreitasdev&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
@@ -44,6 +45,7 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-6CB33E?style=for-the-badge&logo=springboot&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-02364F?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeORM](https://img.shields.io/badge/typeorm-02364F?style=for-the-badge&logo=typeorm&logoColor=white)
 
 </div>
 
