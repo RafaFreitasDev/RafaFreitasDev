@@ -24,8 +24,8 @@ Gerenciar e resolver problemas de forma prática e objetiva.
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%2300f.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Django](https://img.shields.io/badge/Django-1D6921?style=for-the-badge&logo=Django&logoColor=white)
-![NodeJs](https://img.shields.io/badge/nodejs-%2300599C.svg?style=for-the-badge&logo=nodejs&logoColor=white)
-![NestJs](https://img.shields.io/badge/nestjs-%2300599C.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJs](https://img.shields.io/badge/node-%2300599C.svg?style=for-the-badge&logo=node&logoColor=white)
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafafreitasdev&custom_title=&layout=compact&bg_color=00000000&text_color=ffffff&hide_border=true&langs_count=10) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafafreitasdev&theme=transparent&show_icons=true&text_color=ffffff&hide_border=true&hide_title=true&line_height=20&text_bold=false&card_width=100) 
