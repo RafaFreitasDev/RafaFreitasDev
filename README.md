@@ -1,4 +1,4 @@
-# Olá! Meu nome é Rafael Freitas 🖐️
+# Olá! Meu nome é Rafael Freitas 
 
 <p align='justify'>
 Tenho familiaridade com boas práticas de desenvolvimento, metodologias ágeis, e experiência em desenvolvimento web, automação e ciência de dados. Gerenciamento e resolução de problemas de forma prática e objetiva. 
