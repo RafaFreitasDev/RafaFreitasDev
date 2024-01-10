@@ -63,6 +63,7 @@ Sou graduado em Engenharia Mecânica, graduando em Ciência da Computação, com
 <a href="mailto:raf.mec.ba@gmail.com" target="_blank"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'/></a>
 <a href="https://wa.me/5571992951939?text=Ol%C3%A1%20eu%20sou%20%5BSeu%20Nome%20Completo%5D%2C%20peguei%20seu%20contacto%20no%20seu%20README%20do%20GitHub%2C%20eu%20gostaria%20de%20" target="_blank"><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white'/></a>
 <a href="https://rafaelfreitasdev.com" target="_blank"><img src='https://img.shields.io/badge/PORTFOLIO-28589D?style=for-the-badge&logo=PORTFOLIO&logoColor=white'/></a>
+<a href="https://drive.google.com/file/d/1eyoyus1ykbsTUrsIRUUtx44GdKlkLVpN/view" target="_blank"><img src='https://img.shields.io/badge/cv-000000?style=for-the-badge&logo=cv&logoColor=white'/></a>
 
 #
 > **Obrigado por visitar o meu perfil**
