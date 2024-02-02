@@ -48,7 +48,7 @@ Sou graduado em Engenharia Mecânica, graduando em Ciência da Computação, com
 
 <div align='center'>
 
-[![Readme Card](https://github.com/RafaFreitasDev/fullstack-varejo360&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/fullstack-varejo360)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=fullstack-varejo360&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/fullstack-varejo360)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=processos-pje&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/processos-pje)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rafafreitasdev&repo=analisebonus-python&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/RafaFreitasDev/analisebonus-python)
